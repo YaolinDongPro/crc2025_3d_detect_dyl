@@ -34,7 +34,7 @@
                                         if 1.0 <= distance_m <= 1.8:
 """
 # by：齐鲁工业大学2025届董耀琳
-# github：https://github.com/DongYaolinpro/crc2025_3d_detect_dyl
+# github：https://github.com/YaolinDongPro/crc2025_3d_detect_dyl/
 
 import socket
 import struct
